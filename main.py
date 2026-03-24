@@ -1,4 +1,5 @@
 print("main code main file")
+print(5 * 5)
 print("mkmk")
 print("rr")
 print("SALOM")
