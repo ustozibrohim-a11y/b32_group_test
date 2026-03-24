@@ -1,4 +1,5 @@
 print("main code main file")
+print("Yangi yiling bilan ...")
 print(5+6)
 print(5 * 5)
 print("mkmk")
